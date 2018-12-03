@@ -1,0 +1,74 @@
+*{
+    font-family: 'Roboto Slab', serif;
+}
+body{
+    margin:1px;
+    color:white;
+      background-color: #dbdbdb;
+}
+.content{
+    display:flex;
+    align-items:center;
+    justify-content:space-around;
+    border-radius:8px;
+    background-color:#00aab2; 
+}
+.letra{
+          color: white;
+          text-decoration: none;
+          font-size:18px;
+}
+.list_part{
+    width:80%;
+    min-height:670px;
+    margin:0 auto;
+     background-color: white;
+}
+
+.letter{
+    color: #ff751a;
+    border-top:solid #f0f0f0 1px; 
+    margin:0px;
+}
+
+.container{
+    display:flex;
+}
+
+.justify-center{
+        justify-content: center;
+        
+}
+.white{
+    background-color: white;
+    border-radius:3px;
+    color:black;
+}
+.edit_table{
+    color:black;
+    border:solid #005f64 1px;
+    margin:5px;
+    font-size:17px;
+    max-width: 1050px;
+}
+td{
+    border-bottom: solid #005f64 1px;
+    border-right: solid #005f64 1px;
+    padding:5px;
+    margin:0px;
+}
+.logo{
+    width:161px;
+    height:95px;
+    margin-bottom:20px;
+     padding-right:20px;
+}
+.del_alt{
+    text-decoration: none;
+    color:#ff751a; 
+}
+
+.imagem-perfil{
+    height: 75px;
+    width: 75px;
+}

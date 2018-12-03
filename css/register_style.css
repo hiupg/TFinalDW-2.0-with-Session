@@ -1,0 +1,85 @@
+*{
+    font-family: 'Roboto Slab', serif;
+}
+body{
+    margin:1px;
+    color:white;
+    background-color: #dbdbdb;
+}
+.top_content{
+    display:flex;
+    align-items:center;
+    justify-content:space-around;
+    border-radius:8px;
+    background-color:#00aab2; 
+}
+.top_words{
+          color: white;
+          text-decoration: none;
+          font-size:18px;
+}
+.logo{
+    width:161px;
+    height:95px;
+    margin-bottom:20px;
+    padding-right:20px;
+}
+.register_part{
+    width:80%;
+    min-height: 670px;
+    margin:0 auto;
+     background-color: white;
+}
+.letter{
+    color: #ff751a;
+    border-top:solid #f0f0f0 1px;
+    border-top:#00aab2; 
+    margin:0px;
+}
+.container{
+    display:flex;
+    justify-content: center;
+}
+.white{
+    background-color: white;
+    border-radius:3px;
+    color: #ff751a;
+}
+.input_text{
+    width:500px;
+    height:30px;
+    margin-bottom:20px;
+    font-size:18px;
+    border: solid #005f64 1px;
+    
+}
+.div_mef{
+    font-size:20px;
+    color:black;
+ }
+ .div_mef label{
+     color: #ff751a;
+ }
+.mef{
+    margin-bottom: 20px;
+    color:black;
+}
+.container label{
+    font-size:23px;
+}
+.btnenviar{
+    width:300px;
+    height:35px;
+    background-color:#005f64;
+    color: #ff751a;
+   border-radius:5px; 
+    font-size:20px;
+    margin-bottom:100px;
+}
+.foto_forn{
+    margin-bottom:20px;
+     background-color:#005f64;
+     color:white;
+     border-radius:3px;
+     width:290px;
+}
