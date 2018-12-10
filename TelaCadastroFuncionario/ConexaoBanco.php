@@ -4,7 +4,7 @@
 class ConexaoBanco {
     //Atributos
     private $user = "root";
-    private $senha = "";
+    private $senha = "root";
     private $dsn = "mysql:host=localhost;dbname=bibliotecasistem";//tem q mudar
     private $conn;
     

@@ -23,7 +23,7 @@
     else{
         if (md5($pass) == $result["pass"]){
             $_SESSION["login"]=true;
-            header("location: cadastro_f.php");
+            header("location: index.php");
         }
         else{
             print ("Your password don't match with this e-mail");
