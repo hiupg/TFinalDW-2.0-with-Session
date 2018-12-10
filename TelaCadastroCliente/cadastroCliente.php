@@ -1,3 +1,6 @@
+<?php
+    include '../loginho.php';
+?>
 <!DOCTYPE html>
 <html>
     <head>
